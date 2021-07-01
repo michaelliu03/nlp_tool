@@ -22,3 +22,6 @@ for i in range(1,len(word_squence)-1):
         skip_gram.append([target,w])
 
 print(skip_gram)
+
+if __name__ == '__main__':
+    print("this is the start")
